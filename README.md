@@ -7,9 +7,11 @@
 - [ ] Asynchronous Advantage Actor-Critic (A3C)
 
 ### Comparison
-- Reinforce 
+##### Reinforce 
 ![](https://github.com/HiPatil/Policy-based-RL/blob/master/images/Reinforce.png)
-- Actor-Critic
+
+##### Actor-Critic
 ![](https://github.com/HiPatil/Policy-based-RL/blob/master/images/Actor-Critic.png)
-- A2C
+
+##### A2C
 ![](https://github.com/HiPatil/Policy-based-RL/blob/master/images/A2C.png)
